@@ -1,0 +1,32 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+:root {
+    --tiger: #FD6A02;
+    --gold: #f9a602;
+}
+
+.navbar {
+    background-color: var(--tiger);
+}
+
+.take-away, .total-amount, .btn-payment {
+    background-color: var(--gold);
+}
+
+.item-list {
+    height: 390px;
+}
+
+.list-cart {
+    height: 380px;
+}
+
+.gold {
+    color: var(--gold);
+}
+
+.tiger {
+    background-color: var(--tiger);
+}
